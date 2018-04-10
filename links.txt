@@ -1,0 +1,92 @@
+links.txt
+Created Tue Apr 10 13:57:01 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+HDPlex related links
+
+
+Links
+=====
+FanlessTech
+Fair number of fanless chassis for sale.
+Akasa's look good.
+Has nice HDPLEX spread
+The HDPLEX H1/SODD series is nice and small:
+  http://www.hd-plex.com/hdplex-h1-series/
+  http://www.hd-plex.com/HDPLEX-H1.SODD-Fanless-Computer-Case.html
+  Support 12.7mm slot loading optical drive and Thin-ITX motherboard
+  Support mini-ITX motherboard with 24PIN ATX input on the right side
+  Six heatpipe solution support TDP up to 65W CPU
+  Support internal 80W AC-DC adapter for Thin-ITX
+  Software based universal USB ejection button for optical drive
+  Support Intel Haswell, Ivy Bridge,Sandy Bridge CPU and AMD FM1/FM2 APU
+  Two USB 3.0/2.0 Side Port via dual purpose internal USB cable
+
+  HDPLEX H1.SODD Supports Thin-ITX Platform
+  and internal 80W AC Adapter with 19VDC Output.
+  No more external AC Adapter!   <=== Very nice.
+
+  Running: AMD A10-6700 Richland
+           4.2GHz Socket FM2 65W <=== Looks good.
+           quad-core - $141.99 (amazon prime)
+
+  price: $219 + $32 + $26.50 = $277.50 US
+  80W Internal AC-DC Adapter with 19V DC output (+$32.00) <===
+  100W Linear Power Supply with 19/12/9/5V DC output (+$315)
+  Interal IR with MCE Remote (+$26.50) <===
+  NOTE: No mount for IR sensor.  Definitely need to get
+        bluetooth knocked.
+http://www.fanlesstech.com/
+
+HDPLEX H1.S
+Tiny Footprint:8" x 11.3" x 2.7"
+price: $179.00
+http://www.hd-plex.com/hdplex-h1.s-fanless-computer-case.html
+
+HDPLEX H1.SODD
+Tiny Footprint: 8" x 11.3" x 2.7"
+Supports 12.7mm Slot Loading ODD
+price: $189.00
+http://www.hd-plex.com/HDPLEX-H1.SODD-Fanless-Computer-Case.html
+
+HDPLEX H1.SODD preview
+o Supports Thin ITX and Mini ITX with 24PIN ATX plug on the right side
+o VLP (very low profile) memory is required otherwise the memory will conflict with optical drive
+o M.2/mSATA SSD is required for H1.SODD. Regular 2.5" SSD/HDD is NOT supported.
+o HDPLEX internal 80W AC-DC adapter for Thin ITX mobo.
+o For mini ITX with 24PIN ATX on the right side, there are two power supply option for H1.SODD
+1) External AC-DC adapter+PicoPSU solution.
+2) HDPLEX 80W internal AC-DC adapter+ PicoPSU or direct plug DC-ATX converter which accept
+   19V DC input. (Maybe I should develop a high quality direct plug style DC-ATX converter. )
+http://www.hd-plex.com/blog/htpc-hardware/hdplex-h1-sodd-fanless-computer-case-preview/
+
+HDPLEX H1.SODD V2 Fanless Chassis                             <===
+https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+HDPLEX H1.SODD V2 Fanless Aluminum Computer Case-Black        <===
+o Fanless Aluminum Computer Case for HTPC,Minimalist design
+  support Intel/AMD CPU up to 65W TDP
+o Support Both Mini-ITX and Thin-ITX motherboard,Support Two 2.5" SSD/HDD
+o HDPLEX Universal Optical Drive Eject Button, Support Slot loading 12.7mm
+  Optical Drive
+o Brushed Aluminum faceplate,Support HDPLEX 160W DC-ATX and
+  80W AC-DC 19VDC Internal Power Supply.
+o Two side USB 3.0 Port and Aluminum Power Button.
+price: $225.00 (amazon prime - April 10, 2018)
+https://www.amazon.com/HDPLEX-H1-SODD-Aluminum-Computer-Case-Black/dp/B00QHZM9FQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1523393559&sr=1-1&keywords=HDPLEX+H1.SODD+V2+Fanless+Aluminum+Computer+Case-black
+
+HDPLEX H5.TODD Fanless HTPC Case
+http://www.silentpcreview.com/HDPLEX_H5.TODD
+
+HD-Plex Fanless Computer Case H5.S for Music Server builds
+November 3, 2012 - 10:32 am
+http://www.hd-plex.com/blog/
+
+HD-PLEX H10.S fanless PC/HTPC case review by JH fro Czech Republic Part II
+NOTE: This really looks like mine.  Need to verify.
+http://www.hd-plex.com/blog/hdplex-fanless-silent-pc-review/hd-plex-h10-s-fanless-pchtpc-case-review-by-jh-fro-czech-republic-part-ii/
+
+This sleek, fanless HTPC case can handle a powerful CPU and discrete graphics
+HDPlex H5
+http://www.pcworld.com/article/2984498/computers/this-sleek-fanless-htpc-case-can-handle-a-powerful-cpu-and-discrete-graphics.html
