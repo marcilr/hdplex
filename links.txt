@@ -47,8 +47,10 @@ http://www.hd-plex.com/hdplex-h1.s-fanless-computer-case.html
 HDPLEX H1.SODD
 Tiny Footprint: 8" x 11.3" x 2.7"
 Supports 12.7mm Slot Loading ODD
+o mini-ITX motherboard
+o 2x SSD
 price: $189.00
-http://www.hd-plex.com/HDPLEX-H1.SODD-Fanless-Computer-Case.html
+https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
 
 HDPLEX H1.SODD preview
 o Supports Thin ITX and Mini ITX with 24PIN ATX plug on the right side
