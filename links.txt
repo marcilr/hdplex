@@ -64,6 +64,15 @@ o For mini ITX with 24PIN ATX on the right side, there are two power supply opti
 http://www.hd-plex.com/blog/htpc-hardware/hdplex-h1-sodd-fanless-computer-case-preview/
 
 HDPLEX H1.SODD V2 Fanless Chassis                             <===
+o Supports Thin-ITX Platform and internal 80W AC Adaptor with 19VDC Output.
+  No more external AC Adapter!  <=== Looks very nice.
+o HDPLEX's exclusive USB based optical drive eject button solution
+  Support all 12.7mm slot loading ODD!
+o HDPLEX has developed unique internal 80W AC Adapter with 19VDC 
+  output for Thin-ITX and NUC platform.  Eliminate the need for
+  external AC Adapter!  The 80W internal AC adapter is mounted
+  on the H1.SODD aluminum faceplate, allow better thermal
+  performance under demanding task.
 https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
 
 HDPLEX H1.SODD V2 Fanless Aluminum Computer Case-Black        <===
