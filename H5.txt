@@ -1,0 +1,21 @@
+H5.txt
+Created Mon Jun 18 16:11:49 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+HDPlex H5
+
+Fanless
+Dimensions: 430mm x 363mm x 115mm (WxDxH)
+              at 24.55mm/inch:
+            16.9" x 13.9" x 4.5"
+
+Power jack: C14/IEC AC <=== 3 prong jack
+
+
+Links
+=====
+This sleek, fanless HTPC case can handle a powerful CPU and discrete graphics
+HDPlex H5
+http://www.pcworld.com/article/2984498/computers/this-sleek-fanless-htpc-case-can-handle-a-powerful-cpu-and-discrete-graphics.html
+https://www.hdplex.com/hdplex-h5-fanless-computer-case.html
