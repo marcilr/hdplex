@@ -1,0 +1,73 @@
+specs.txt
+Created Thu Jun 21 15:48:38 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Technical Specifications
+
+
+HDPLEX H1.SODD V2 Fanless Chassis
+
+
+Material & Color
+================
+Material:           6063T Aluminum Alloy
+Body Color:         Black
+Body Finish:        Durable Powder Coating
+Faceplate Color:    Silver or Black
+Faceplate Finish:   Brushed Aluminum
+Weight:             9lbs(4kg)
+
+
+Dimension
+=========
+Internal    270x196x58mm (L x W x H)
+External    270x264x63.5mm (L x W x H)
+Faceplate   286x70x15mm(L x W x D)
+
+
+Power Supply Option
+===================
+HDPLEX  80W AC-DC+HDPLEX 160W DC-ATX nanoATX Combo Supported
+HDPLEX 160W DC-ATX + External AC Adapter Supported
+HDPLEX 400W HiFi DC-ATX +External AC Adapter Supported
+HDPLEX 160W DC-ATX +HDPLEX 200W Linear Power Supply Supported
+HDPLEX 400W HiFi DC-ATX +HDPLEX 200W Linear Power Supply Supported
+HDPLEX  80W AC-DC for Thin-ITX Supported
+
+
+Cooling System
+==============
+Intel Coffee Lake/Skylake/Haswell/Ivy Bridge/Sandy Bridge CPU 
+AMD AM4/AM2/AM3/FM1/FM2 Socket APU Supported
+HDPLEX H1 Series Six-Heatpipe CPU Heatsink System 
+  support 65W TDP CPU
+
+
+Compatibility
+=============
+Mini-ITX and Thin-ITX Supported (Thin ITX might required
+  Optional Thin ITX Backplate)
+
+Slim Slot Loading 12.7mm Optical Drive Supported 
+2x2.5" SSD/HDD Supported 
+USB 3.0 Side Port: Two
+
+
+Packaging
+=========
+Double Packaged
+Dimension: 12"x12"x8"
+Shipping Weight: 4.8kg/ 10lbs
+
+
+Manufacture Warranty
+====================
+Parts  1 year limited
+Labor 1 year limited
+
+
+Links
+=====
+Technical Specifications
+https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
