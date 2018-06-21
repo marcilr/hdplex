@@ -33,7 +33,8 @@ price: $355.99
 Motherboard
 ===========
 Thin-ITX Form Factor （Optional Thin-ITX Blackplate Required)
-H1.S supports PCIEX4 or PCIEx1 full height and full length card with Thin-ITX only
+H1.S supports PCIEX4 or PCIEx1 full height and full length card
+with Thin-ITX only
 
 ASUS Q170T/CSM
   cpu: 6th-generation Intel LGA1151 Core i7 / Core i5 / Core i3 / Pentium® / Celeron 
