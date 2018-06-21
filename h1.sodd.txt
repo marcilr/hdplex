@@ -10,6 +10,26 @@ Cable Card:
   Ceton InfiniTV 4 PCIe - 4-channel Internal Cable TV Tuner Card for CableCARD
   see: orders/complete/2014/htpc/amazon-Ceton-InfiniTV-4-PCIe-20141005.txt
 
+
+RAM
+===
+Crucial for ASUS H110T/CSM
+
+Crucial 32GB Kit (2 x 16GB) DDR4-2400 SODIMM
+CT8995120
+upgrade for ASUS H110T/CSM system.
+price: $345.99 
+
+1506004
+Crucial 32GB Kit (2 x 16GB) DDR4-2666 SODIMM
+CT9159316
+upgrade for ASUS H110T/CSM system.
+price: $355.99
+
+--ASUS H110T/CSM compatible upgrades
+  http://www.crucial.com/usa/en/compatible-upgrade-for//h110t-csm
+
+
 Motherboard
 ===========
 Thin-ITX Form Factor （Optional Thin-ITX Blackplate Required)
@@ -50,8 +70,17 @@ ECS H110T-SI01
 GA-H170TN
 JetWay JNF595-H110 LGA
 
+
 Links
 =====
+BLUETOOTH AUDIO IN OPENELEC ON THE RASPBERRY PI
+https://plugable.com/2016/07/22/bluetooth-audio-openelec-raspberry-pi/
+
+ FeBite MX3 Pro 2.4G Kodi Remote with Backlit Mini Wireless Keyboard Mouse Air Control
+for Android Smart TV Box IPTV HTPC Mini PC Compatible with Windows iOS MAC Linux PS3 Xbox One 360
+price: $12.99
+https://www.amazon.com/Updated-FeBite-Wireless-Keyboard-Compatible/dp/B015O5UM6M/ref=pd_sim_23_1?_encoding=UTF8&pd_rd_i=B015O5UM6M&pd_rd_r=8XNKE564408YX54CZ8MC&pd_rd_w=xTQDc&pd_rd_wg=aqeeX&psc=1&refRID=8XNKE564408YX54CZ8MC
+
 H1.SODD Hardware Compatiblity 
 https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
 
@@ -62,3 +91,11 @@ https://www.howtogeek.com/207186/how-to-enable-hdmi-cec-on-your-tv-and-why-you-s
 How to set up KODI (OpenELEC) for any remote to control the media player
 Recommends above HDMI-CEC link
 https://raspberrypi.stackexchange.com/questions/45383/how-to-set-up-kodi-openelec-for-any-remote-to-control-the-media-player
+
+openelec basic install guide
+https://openelec.tv/documentation/installing-openelec/basic-install-guide
+
+What are the Best Remote Controls for Kodi?
+By WirelesSHack | January 7, 2018
+The LYNEC T5 looks good
+https://www.wirelesshack.org/what-are-the-best-remote-controls-for-kodi.html
