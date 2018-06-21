@@ -7,6 +7,10 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Order for HDPLEX H1.SODD V2 Fanless Chassis
 
+HDPLEX H1.SODD          - $215.00   (June 21, 2018)
+NanoATX Power Supply
+  80W AC-DC+160W DC-ATX -  $80.50
+
 
 H1.SODD Supports mini-ITX motherboard and two SSD
 
