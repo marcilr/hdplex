@@ -1,0 +1,64 @@
+h1.sodd.txt
+Created Wed Jun 20 16:22:51 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+HDPLEX H1.SODD V2 Fanless Chassis
+
+
+Cable Card:
+  Ceton InfiniTV 4 PCIe - 4-channel Internal Cable TV Tuner Card for CableCARD
+  see: orders/complete/2014/htpc/amazon-Ceton-InfiniTV-4-PCIe-20141005.txt
+
+Motherboard
+===========
+Thin-ITX Form Factor （Optional Thin-ITX Blackplate Required)
+H1.S supports PCIEX4 or PCIEx1 full height and full length card with Thin-ITX only
+
+ASUS Q170T/CSM
+  cpu: 6th-generation Intel LGA1151 Core i7 / Core i5 / Core i3 / Pentium® / Celeron 
+  socket: Support 14nm CPU Intel LGA 1511 Socket
+  chipset: Intel Q170
+  ram: 2x SO-DIMM DDR 2133MHz, 32GB max
+  2x USB 3.0
+  2x SATA 6Gb/s
+  1x M.2 Socket E key type 2230 for WiFi device
+  1x M.2 Socket 3, with M key, type 2242/2260/2280 storage device
+     support (both SATA & PCIE)
+  NOTE: Problematic reports on amazon
+  https://www.asus.com/us/Motherboards/Q170T-CSM/
+
+ASUS H110T/CSM     <===
+  4 stars on amazon
+  cpu: Core i7 / i5 / i3 / Pentium / Celeron (LGA1151)
+       Support 14nm CPU Intel LGA 1511 Socket
+  chipset: H110
+  ram: 2x SO-DIMM DDR4 2133MHz
+  storage: sata: 2x SATA 6Gb/s, max 32GB
+           1 x M.2 Socket 1 with E key, type 2230 for WIFI device
+           1x M.2 Socket 3. with M key, type 2242/2260
+  lan: 2x GbE
+  video: 1x hdmi, 1x displayport 
+  price: $80 (amazon prime - June 20, 2018)
+  https://www.asus.com/us/Motherboards/H110T-CSM/
+  https://www.newegg.com/Product/Product.aspx?Item=N82E16813132833
+  https://www.amazon.com/H110T-CSM-LGA1151-Mini-ITX-Motherboard/dp/B01EZGYSGG/ref=sr_1_1?s=electronics&ie=UTF8&qid=1529541313&sr=1-1&keywords=ASUS+H110T%2FCSM&dpID=61%252BPzOXhUhL&preST=_SY300_QL70_&dpSrc=srch
+
+ASRock IMB-190
+ASRock IMB-190-E
+ECS H110T-SI01
+GA-H170TN
+JetWay JNF595-H110 LGA
+
+Links
+=====
+H1.SODD Hardware Compatiblity 
+https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+How to Enable HDMI-CEC on Your TV, and Why You Should
+by Chris Hoffman on November 21st, 2016
+https://www.howtogeek.com/207186/how-to-enable-hdmi-cec-on-your-tv-and-why-you-should/
+
+How to set up KODI (OpenELEC) for any remote to control the media player
+Recommends above HDMI-CEC link
+https://raspberrypi.stackexchange.com/questions/45383/how-to-set-up-kodi-openelec-for-any-remote-to-control-the-media-player
