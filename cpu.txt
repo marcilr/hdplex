@@ -1,0 +1,53 @@
+cpu.txt
+Created Wed Jun 20 16:54:10 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+CPU
+
+
+Looking for a low watt, i.e. 35w, cpu for use on:
+  ASUS H110T/CSM 
+
+Use with Micron or Corsair ram
+
+
+Intel Core i7-7700K Kaby Lake CPU Performance
+http://www.legitreviews.com/intel-core-i7-7700k-processor-review_189491
+
+
+Intel BX80677I77700 Core i7-7700 Desktop Processor 8M Cache,
+3.6GHz (Max Turbo Frequency 4.20GHz) 7th Generation
+o Sockets Supported-FCLGA1151
+o Intel 200/1001 Series Chipset Compatibility (1. Excludes Intel Octane Technology support)
+o Intel HD Graphics 630
+o Intel Turbo Boost 2.0 Technology
+o Intel Hyper-Threading Technology1
+o Works with Windows 10 Only
+price: $302.50 (amazon prime - June 20, 2018)
+https://www.amazon.com/Intel-BX80677I77700-Processor-Frequency-Generation/dp/B01N0L41N7/ref=sr_1_fkmr2_2?s=electronics&ie=UTF8&qid=1529542932&sr=1-2-fkmr2&keywords=i7+35w+1151
+
+
+Intel Core i7-7700T Kaby Lake Quad-Core
+2.9 GHz LGA 1151 35W CM8067702868416 Desktop Processor
+14nm Kaby Lake 35W
+8MB L3 Cache
+4 x 256KB L2 Cache
+Tray ONLY
+o quad-core, 14nm
+o DDR4-2133 / 2400, DDR3L-1333 / 1600 @ 1.35V
+o No heatsink or fan
+price: $336.53 (newegg - June 20, 2018)
+https://www.newegg.com/Product/Product.aspx?Item=9SIA98C5MK7978&ignorebbr=1&nm_mc=KNC-GoogleMKP-PC&cm_mmc=KNC-GoogleMKP-PC-_-pla-_-Processors+-+Desktops-_-9SIA98C5MK7978&gclid=CjwKCAjw9qfZBRA5EiwAiq0AbaYXxbT7uG0-T1TwRxEBgr3kP4ZFOm6jHElYTn_Ug6FnWCJmxbc27hoCY5QQAvD_BwE&gclsrc=aw.ds
+
+Intel BX80677I77700T 7th Generation Core i7-7700T Processor
+14nm Kaby Lake 35W
+8MB L3 Cache
+1MB L2 Cache
+Intel HD Graphics 630
+o quad-core, 14nm
+o 2.9Ghz - 3.8Ghz
+o DDR4-2133 / 2400, DDR3L-1333 / 1600 @ 1.35V
+o Heatsink and fan included
+price: $298.79 (newegg - June 20, 2018)
+https://www.newegg.com/Product/Product.aspx?Item=274-000A-000F4&cm_re=intel_i7_35w-_-274-000A-000F4-_-Product
