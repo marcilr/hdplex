@@ -1,0 +1,125 @@
+order-20180621.txt
+Created Thu Jun 21 09:48:41 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+*NOT YET*
+
+Order for HDPLEX H1.SODD V2 Fanless Chassis
+
+
+H1.SODD Supports mini-ITX motherboard and two SSD
+
+HDPLEX H1.SODD Supports Thin-ITX Platform and internal
+80W Adapter with 19VDC Output.
+No more external AC Adapter!
+
+HDPLEX's exclusive USB based Optical Drive Eject Button
+Solution Support all 12.7mm slot loading ODD!
+
+NOTE: Have spare ODD in garage.
+
+
+Compatibility
+=============
+Mini-ITX and Thin-ITX Supported (Thin ITX might required Optional
+Thin ITX Backplate)
+
+Slim Slot Loading 12.7mm Optical Drive Supported 
+
+2x2.5" SSD/HDD Supported 
+
+USB 3.0 Side Port: Two
+--www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+
+Motherboard
+===========
+Planning on using the ASUS H110T/CSM:
+make:        ASUS
+model:       H110T/CSM
+description: ASUS H110T/CSM LGA1151 DDR4 DP HDMI LVDS M.2 SATA 6Gb/s
+             USB 3.0 H110 Thin Mini-ITX CSM Motherboard
+cpu:         6th Gen Intel Processors
+socket:      1151
+price:       $80 (amazon prime - June 20, 2018)
+
+
+
+Material & Color
+================
+Material:         6063T Aluminum Alloy
+Body Color:       Black
+Body Finish:      Durable Powder Coating
+Faceplate Color:  Silver or Black
+Faceplate Finish: Brushed Aluminum
+Weight:           9lbs(4kg)
+--www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+
+
+
+Power Supply
+============
+HDPLEX has developed unique internal 80W AC Adapter with 19VDC
+Output for Thin-ITX and NUC Platform.  Eliminate the need
+for external AC Adapter!
+
+The 80W Internal AC Adapter is mounted on the H1.SODD aluminum
+faceplate, allow better thernal performance under demanding task.
+--www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+HDPLEX 80W AC-DC+HDPLEX 160W DC-ATX nanoATX Combo Supported   <===
+HDPLEX 160W DC-ATX + External AC Adapter Supported
+HDPLEX 400W HiFi DC-ATX +External AC Adapter Supported
+HDPLEX 160W DC-ATX +HDPLEX 200W Linear Power Supply Supported
+HDPLEX 400W HiFi DC-ATX +HDPLEX 200W Linear Power Supply Supported
+HDPLEX 80W AC-DC for Thin-ITX Supported
+--www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+
+
+Cooling System
+==============
+Intel Coffee Lake/Skylake/Haswell/Ivy Bridge/Sandy Bridge CPU 
+
+AMD AM4/AM2/AM3/FM1/FM2 Socket APU Supported
+
+HDPLEX H1 Series Six-Heatpipe CPU Heatsink System 
+support 65W TDP CPU
+--www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+
+Dimension
+=========
+Internal:   270x196x58mm (L x W x H)
+External:   270x264x63.5mm (L x W x H)   <=== 10.63" x 10.39" x 2.59"
+Faceplate:  286x70x15mm(L x W x D)
+--www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+
+Packaging
+=========
+Double Packaged
+Dimension: 12"x12"x8"
+Shipping Weight: 4.8kg/ 10lbs
+www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+
+Manufacture Warranty
+====================
+Parts  1 year limited
+Labor 1 year limited
+
+
+
+Links
+=====
+ASUS H110T/CSM
+https://www.asus.com/us/Motherboards/H110T-CSM/
+
+HDPLEX H1.SODD V2 Fanless Chassis
+https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
+
+Technical Specifications
+https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
