@@ -5,6 +5,9 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 HDPLEX H1.SODD V2 Fanless Chassis
 
+make:  HDPEX
+model: H1.SODD V2 Fanless Chassis
+
 
 Cable Card:
   Ceton InfiniTV 4 PCIe - 4-channel Internal Cable TV Tuner Card for CableCARD
