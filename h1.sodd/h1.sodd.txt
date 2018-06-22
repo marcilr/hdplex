@@ -5,13 +5,31 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 HDPLEX H1.SODD V2 Fanless Chassis
 
+The H1.SODD looks great but I be darned how it can hold 
+ODD, PCIe, and 2x SSD drives.
+
 make:  HDPEX
 model: H1.SODD V2 Fanless Chassis
+price: $225 (amazon prime - June 21, 2018)
 
 
 Cable Card:
   Ceton InfiniTV 4 PCIe - 4-channel Internal Cable TV Tuner Card for CableCARD
   see: orders/complete/2014/htpc/amazon-Ceton-InfiniTV-4-PCIe-20141005.txt
+
+
+Power Supply
+============
+H1.SODD V2 supports HDPLEX 80W AC-DC+160W DC-ATX combo.
+--H1.V2.Installation.Manual.V1.pdf, p. 15
+
+PCIe
+====
+HDPLEX H1.SODD V2 also comes with
+additional backplane for Thin-ITX and
+supports one expansion car via riser.
+--HDPLEX H1.SODD V2 Fanless Aluminum Computer Case-Black
+  https://www.amazon.com/HDPLEX-H1-SODD-Aluminum-Computer-Case-Black/dp/B00QHZM9FQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1529626502&sr=1-1&keywords=HDPLEX+H1.SODD&dpID=31NJ1qfW1lL&preST=_SX300_QL70_&dpSrc=srch
 
 
 RAM
@@ -84,6 +102,10 @@ https://plugable.com/2016/07/22/bluetooth-audio-openelec-raspberry-pi/
 for Android Smart TV Box IPTV HTPC Mini PC Compatible with Windows iOS MAC Linux PS3 Xbox One 360
 price: $12.99
 https://www.amazon.com/Updated-FeBite-Wireless-Keyboard-Compatible/dp/B015O5UM6M/ref=pd_sim_23_1?_encoding=UTF8&pd_rd_i=B015O5UM6M&pd_rd_r=8XNKE564408YX54CZ8MC&pd_rd_w=xTQDc&pd_rd_wg=aqeeX&psc=1&refRID=8XNKE564408YX54CZ8MC
+
+HDPLEX H1.SODD V2 Fanless Aluminum Computer Case-Black
+price: $225 (amazon prime - June 21, 2018)
+https://www.amazon.com/HDPLEX-H1-SODD-Aluminum-Computer-Case-Black/dp/B00QHZM9FQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1529626502&sr=1-1&keywords=HDPLEX+H1.SODD&dpID=31NJ1qfW1lL&preST=_SX300_QL70_&dpSrc=srch
 
 H1.SODD Hardware Compatiblity 
 https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
