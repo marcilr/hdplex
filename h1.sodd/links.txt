@@ -8,6 +8,9 @@ HDPLEX H1.SODD related links
 
 Links
 =====
+ASUS H110/CSM
+https://www.asus.com/us/Motherboards/H110T-CSM/
+
 HDPLEX H1.SODD Installation Guide 
 Has HDPLEX H1.SODD V2 Installation Guide Download link
 https://www.hdplex.com/hdplex-h1-sodd-fanless-computer-case.html
