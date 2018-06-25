@@ -87,6 +87,10 @@ o Two side USB 3.0 Port and Aluminum Power Button.
 price: $225.00 (amazon prime - April 10, 2018)
 https://www.amazon.com/HDPLEX-H1-SODD-Aluminum-Computer-Case-Black/dp/B00QHZM9FQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1523393559&sr=1-1&keywords=HDPLEX+H1.SODD+V2+Fanless+Aluminum+Computer+Case-black
 
+HDPLEX H3.SODD Fanless Mini-ITX HTPC Case         <===
+Submitted by Mike Chin on Fri, 2011-05-20 10:37
+http://www.silentpcreview.com/article1201-page1.html
+
 HDPLEX H5.TODD Fanless HTPC Case
 http://www.silentpcreview.com/HDPLEX_H5.TODD
 
